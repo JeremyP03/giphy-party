@@ -1,0 +1,36 @@
+body {
+    background-color: #292F33;
+}
+    
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+form {
+    text-align: center;
+
+}
+
+#sBar {
+    border-radius: 5px;
+    height: 40px;
+    text-align: left;
+
+}
+
+#eBut {
+    border-radius: 5px;
+    height: 45px;
+    text-align: left;
+    background-color: #55ACEE;
+    font-size: 15px;
+}
+
+#rBut {
+    border-radius: 5px;
+    height: 45px;
+    text-align: left;
+    background-color: #EA4335;
+    font-size: 15px;
+}
